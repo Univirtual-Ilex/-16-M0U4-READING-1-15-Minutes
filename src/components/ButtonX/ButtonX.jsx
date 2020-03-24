@@ -10,7 +10,7 @@ const styles = css`
     text-transform:uppercase;
     font-size:1.5em;
     display:block;
-    margin:1.5em 0;
+    margin:.5em 0;
     padding: 0.4em 1.1em;
     border-radius: 1em 1em 1em 1em;
     background: ${Ilex.degradado('90deg', Ilex.rosa, Ilex.azul, Ilex.violeta)};
