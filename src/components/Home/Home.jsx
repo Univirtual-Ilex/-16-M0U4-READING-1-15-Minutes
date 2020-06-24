@@ -16,7 +16,7 @@ const Home_base = function ({...props}) { // se le pasan las props para recibir 
                             <h1> 15 Minutes </h1>
                             <p>
                             Read the routines of different students and then associate the images on the right correspondingly.
-                            <span className='negrilla'> <br/> <br/> ¡Time to practice your reading skill!</span></p>
+                            <span className='negrilla'> <br/> <br/> Time to practice your reading skill!</span></p>
                             <ButtonLink to='/actividad1'>Start</ButtonLink>
                         </div>
                     </div>

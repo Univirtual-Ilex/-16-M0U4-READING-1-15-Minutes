@@ -8,17 +8,17 @@ const data = [
     {
       "id": 2,
       "student": "Armando",
-      "tooltip": "Armando: I Every day I wake up at 7:30. At 7:45 I take a shower and at 8:00 I have breakfast have lunch at 1:00 because I finish classes at 12:30. At 2:00 I work as a monitor in the library"
+      "tooltip": "Armando: Every day, I wake up at 7:30. I take a shower t 7:45 and  I have breakfast at 8:00. I have lunch at 1:00 because I finish classes at 12:30. At 2:00 I work as a monitor in the library"
     },
     {
       "id": 3,
       "student": "Gabriela",
-      "tooltip": "Gabriela: I usually have lunch at 1:00 because I finish classes at 12:30 . At 2:00 I work as a monitor in the library"
+      "tooltip": "Gabriela: I usually have lunch at 1:00 because I finish classes at 12:30 .I work as a monitor in the library at 2:00"
     },
     {
       "id": 4,
       "student": "Ramon",
-      "tooltip": " Ramón: I do my homework in the library at 5:00 PM after that I catch the bus. I arrive home at 6:00 PM and I have dinner at around 7:30 PM."
+      "tooltip": " Ramón: I do my homework in the library at 5:00 PM after that, I catch the bus. I arrive home at 6:00 PM and I have dinner at around 7:30 PM."
     },
   ]
 

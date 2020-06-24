@@ -4,7 +4,7 @@ const styles = css`
 position: absolute;
 z-index:500;
 top: 15%;
-left: 0;
+left: 2em;
 right:0;
 font-size:0.7em;
 text-align:center;
@@ -13,6 +13,7 @@ background-color: #fff;
 padding:2em 1em 2.8em 1em;
 border-radius:1.5em;
 box-shadow:0 0 1em 0 rgba(0,0,0,0.2);
+width:60%;
 display:${props => props.visible ? 'block' : 'none'};
 .btn-close{
     position: absolute;
